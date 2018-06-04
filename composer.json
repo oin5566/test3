@@ -1,0 +1,34 @@
+{  
+  "name": "oin5566/test3",  
+  "description": "mytest3",  
+  "keywords": [  
+    "yii2",  
+    "test3"  
+  ],  
+  "homepage": "https://github.com/oin5566/test3",  
+  "type": "yii2-extension",  
+  "license": "MIT",  
+  "support": {  
+    "source": "https://github.com/oin5566/test3"  
+  },  
+  "authors": [  
+    {  
+      "name": "wangqing",  
+      "email": "wangqing@126.com"  
+    }  
+  ],  
+  "minimum-stability": "stable",  
+  "require": {  
+    "php": ">=5.4.0",  
+    "yiisoft/yii2": ">=2.0.6"  
+     
+  },  
+  "autoload": {  
+    "psr-4": {  
+      "terry\\": ""  
+    }  
+  },  
+  "config": {  
+    "process-timeout": 1800  
+  }  
+}
